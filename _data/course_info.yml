@@ -1,0 +1,9 @@
+school: Hennepin Technical College
+name: Fundamentals of Programming
+number: CCIS 1505
+semester: Fall 2017
+#section: section number
+
+# The > allows new lines in the text up to the next property
+course_description: >
+  This course is the first course for a student planning to study computer programming. The course content introduces the student to both procedural and object-oriented programming. Emphasis will be placed on procedural programming, computational thinking and problem solving. Topics will include flowcharting, pseudocode, program design, data types including arrays and objects, conditional boolean logic, program structures for branching and iteration, functions, and basic data structures.

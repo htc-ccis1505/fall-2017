@@ -1,0 +1,48 @@
+-
+  sort-order: 1
+  id: outcome-comp-thinking
+  text: "Explain computational thinking concepts such as abstraction, generalization and composition/decomposition."
+-
+  sort-order: 2
+  id: outcome-prog-flow
+  text: "Diagram program logic flow."
+-
+  sort-order: 3
+  id: outcome-branching
+  text: "Solve problems using decisions and branching in program flow."
+-
+  sort-order: 4
+  id: outcome-iteration
+  text: "Solve problems using iteration (looping) in program flow."
+-
+  sort-order: 5
+  id: outcome-data-structs
+  text: "Solve problems using arrays, and data structures such as lists and key-value pairs."
+-
+  sort-order: 6
+  id: outcome-functions
+  text: "Build a modular program using functions."
+-
+  sort-order: 7
+  id: outcome-prob-solving
+  text: "Develop programs to solve real-world problems."
+-
+  sort-order: 8
+  id: outcome-prog-style
+  text: "Use appropriate program documentation, programming style and language conventions."
+-
+  sort-order: 9
+  id: outcome-test
+  text: "Create appropriate test data."
+-
+  sort-order: 10
+  id: outcome-debugg
+  text: "Use debugging techniques to troubleshoot program code."
+-
+  sort-order: 11
+  id: outcome-oop
+  text: "Identify the core features of object-oriented programming."
+-
+  sort-order: 12
+  id: outcome-oop
+  text: "Compare and contrast procedural and object-oriented programming."
