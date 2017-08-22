@@ -11,7 +11,7 @@
 ###############################################################################
 
 # Site settings - affect how your site is published
-baseurl: "/course-web-template"       ##### Change this for each semester #####
+baseurl: "/fall-2017"       ##### Change this for each semester #####
 url: "https://htc-ccis1505.github.io"
 
 # Color scheme based on http://flatuicolors.com/.
