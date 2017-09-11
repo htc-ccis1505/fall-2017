@@ -11,7 +11,7 @@ For our first lab assignment, we will learn to work with Snap! a graphical block
 
 We will also be working in pairs for this lab, so find a lab partner and buddy up.  Don't forget to switch roles throughout the lab between driver and navigator.
 
-
+## Assignment
 [Lab 1: Introduction to Snap!](http://htc-ccis1505.github.io/main-labs/llab/html/topic.html?1&topic=htc_fund%2Fintro_pair%2F1-introduction-v2.topic&course=htc_f16.html)
 
 {% include alert.html type="danger"

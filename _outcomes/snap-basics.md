@@ -1,6 +1,6 @@
 ---
-title: Snap Basics
-course_outcome: outcome-1
+title: Snap Sequences
+course_outcome: outcome-flow-ctrl
 ---
 
-Write a first program using Snap!
+Write a first program using sequences of Snap! code.

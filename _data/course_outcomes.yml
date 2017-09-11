@@ -8,20 +8,16 @@
   text: "Diagram program logic flow."
 -
   sort-order: 3
-  id: outcome-branching
-  text: "Solve problems using decisions and branching in program flow."
+  id: outcome-flow-ctrl
+  text: "Solve problems using sequences, decisions and iteration in program flow."
 -
   sort-order: 4
-  id: outcome-iteration
-  text: "Solve problems using iteration (looping) in program flow."
--
-  sort-order: 5
   id: outcome-data-structs
-  text: "Solve problems using arrays, and data structures such as lists and key-value pairs."
+  text: "Solve problems using arrays and common data structures."
 -
   sort-order: 6
   id: outcome-functions
-  text: "Build a modular program using functions."
+  text: "Build procedural programs using stateless functions."
 -
   sort-order: 7
   id: outcome-prob-solving
@@ -33,11 +29,11 @@
 -
   sort-order: 9
   id: outcome-test
-  text: "Create appropriate test data."
+  text: "Create appropriate test cases with good test data."
 -
   sort-order: 10
   id: outcome-debugg
-  text: "Use debugging techniques to troubleshoot program code."
+  text: "Apply program debugging techniques and methods."
 -
   sort-order: 11
   id: outcome-oop
